@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Garvit Katyal
 - 👀 I’m interested in machine learning and artificial intelligence 
-- 🌱 I’m currently learning Data Science and machine learning 
-- I’m looking to collaborate on some open source projects 
+- 🌱 I’m currently learning Data Science and machine learning. Moreover, I know python as well as familiar with C/C++.
+- I’m looking to collaborate on some open source projects.
 
 <!--📫 How to reach me ... -->
 
